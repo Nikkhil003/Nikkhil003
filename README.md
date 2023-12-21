@@ -14,7 +14,7 @@ I'm a B.Tech student with a passion for Machine Learning and Computer Vision. I'
 
 I'm actively learning and building my portfolio. While I'm in the early stages of my journey, I've already started working on some interesting projects:
 - Emotion Recognition
-- Iris flower classification
+- Image Classification GUI
 
 ## Languages and Tools
 <img align="left" alt="PYTHON" width="28px" src="https://www.svgrepo.com/show/354238/python.svg" />
