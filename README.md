@@ -2,11 +2,11 @@
 ![banner](https://github.com/Nikkhil003/Nikkhil003/assets/98099403/90aa6c17-7293-4a7b-b777-15eccc0fc56b)
 # Welcome to My GitHub Profile!
 
-I'm a B.Tech student with a passion for Machine Learning and Computer Vision. I'm in my third year, eager to learn, experiment, and contribute to the exciting world of AI.
+I'm a B.Tech student with a passion for Machine Learning and Computer Vision. I'm in my final year, eager to learn, experiment, and contribute to the exciting world of AI.
 
 ## About Me
 
-- 🎓 B.Tech student, currently in the third year at Jaipur Engineering College and Research Centre
+- 🎓 B.Tech student, currently in the final year at Jaipur Engineering College and Research Centre
 - 🤖 Aspiring Machine Learning and AI enthusiast
 - 💼 Exploring AI projects and opportunities for growth
 
