@@ -26,7 +26,7 @@ I'm actively learning and building my portfolio. While I'm in the early stages o
 <br />
 
 ## Connect with me
-<a href="https://www.linkedin.com/in/code-with-nik/"><img align="left" alt="AmarKumar | LinkedIn" width="30px" src="https://www.svgrepo.com/show/354000/linkedin-icon.svg" /></a>
+<a href="https://www.linkedin.com/in/nikkhil03/"><img align="left" alt="AmarKumar | LinkedIn" width="30px" src="https://www.svgrepo.com/show/354000/linkedin-icon.svg" /></a>
 <br />
 <br />
 
