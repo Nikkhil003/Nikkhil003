@@ -1,18 +1,23 @@
 # Welcome to My GitHub Profile!
 
-I'm a B.Tech student with a passion for Machine Learning and Computer Vision. I'm in my final year, eager to learn, experiment, and contribute to the exciting world of AI.
+I'm Nikhil Sharma, a Computer Science graduate and Operations Analyst at ICICI HFC with a strong interest in Software Development, Machine Learning, and Data-Driven Systems. I enjoy building practical applications, exploring AI technologies, and continuously improving my problem-solving skills.
 
 ## About Me
 
-- 🎓 B.Tech student, currently in the final year at Jaipur Engineering College and Research Centre
-- 🤖 Aspiring Machine Learning and AI enthusiast
-- 💼 Exploring AI projects and opportunities for growth
+- 🎓 B.Tech in Computer Science & Engineering (2021–2025)
+- 💼 Currently working as an Operations Analyst at ICICI HFC
+- 💻 Interested in Software Engineering, Machine Learning, and Backend Development
+- 🚀 Passionate about building real-world projects and scalable applications
+- 📚 Continuously learning new technologies and improving coding skills
 
 ## My Work
 
-I'm actively learning and building my portfolio. While I'm in the early stages of my journey, I've already started working on some interesting projects:
-- Emotion Recognition
-- Image Classification GUI
+Here are some projects I’ve worked on:
+
+- 🖼️ Image Classifier — CNN-based image classification model with data augmentation
+- 🌍 Emission Tracker — Full-stack web app for emission estimation and analytics
+- 🧠 Student Performance Predictor — ML-based prediction system for student analysis
+- 📷 ImageIQ — Intelligent image classification system with GUI interface
 
 ## Languages and Tools
 <img align="left" alt="PYTHON" width="28px" src="https://www.svgrepo.com/show/354238/python.svg" />
